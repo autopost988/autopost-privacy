@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Auto Post – Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy for Auto Post</h1>
+  <p>We respect your privacy and are committed to protecting your personal data. This policy explains how the Auto Post application handles data when you use the app.</p>
+
+  <h2>1. Data We Collect</h2>
+  <ul>
+    <li>Your Facebook account ID and the Pages you manage, as provided by the Facebook Graph API after you grant permission.</li>
+    <li>Your Telegram user ID and chat IDs needed to send you messages from the bot.</li>
+    <li>The links you send to the bot (such as video URLs) and the text or captions you want to publish.</li>
+    <li>Basic technical logs (timestamps, error messages) to debug issues.</li>
+  </ul>
+
+  <h2>2. How We Use the Data</h2>
+  <p>To publish the content you request to your Facebook Pages, to schedule and manage posts, and to monitor and improve reliability.</p>
+
+  <h2>3. What We Do NOT Do</h2>
+  <p>We do not sell your data, we do not use it for external advertising, and we do not publish anything without your explicit request.</p>
+
+  <h2>4. Data Storage and Retention</h2>
+  <p>We store only minimal configuration and logs, and temporary media files are deleted shortly after publishing succeeds or fails.</p>
+
+  <h2>5. Data Sharing</h2>
+  <p>Your data is shared only with official Facebook/Instagram and Telegram services through their APIs.</p>
+
+  <h2>6. Your Rights</h2>
+  <p>You can stop using the app at any time, revoke permissions from Facebook settings, and request deletion of your data by email.</p>
+
+  <h2>7. Contact</h2>
+  <p>If you have any questions, contact us at: rramzi1475@gmail.com</p>
+</body>
+</html>
